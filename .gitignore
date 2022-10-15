@@ -1,0 +1,9 @@
+Debug
+Release
+*.obj
+*.pdb
+*.idb
+*.log
+Direct2DProj/Debug
+Direct2DProj/Release
+.vs
